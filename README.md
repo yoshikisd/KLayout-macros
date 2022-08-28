@@ -1,2 +1,2 @@
 # asiKlayout
-Klayout macro for generating artificial spin ice PCells
+Klayout macro for generating artificial spin ice PCells, written in Python
